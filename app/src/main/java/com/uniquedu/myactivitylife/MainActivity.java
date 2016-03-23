@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
+    //添加新的注释
     private static final String TAG="Activity的生命周期";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
